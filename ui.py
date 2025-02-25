@@ -10,7 +10,7 @@ import traceback
 import os
 
 def main_page():
-    st.title("Intelligent IDE")
+    st.title("CraftCode")
     st.write("Welcome! Choose an option below:")
 
     col1, col2 = st.columns(2) #Improved layout
